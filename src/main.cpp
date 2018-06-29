@@ -77,10 +77,7 @@ int main() {
 		std::string sResponse = "";
 		std::ifstream myFile("records.txt");
 		std::vector<Record> records;
-		std::vector<std::string> vec = readLinesIntoArr(myFile);
-
 		records = getRecords("records.txt");
-
 
 		while(1) {
 				std::cout << ">";
