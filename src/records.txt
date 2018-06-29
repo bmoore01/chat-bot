@@ -1,0 +1,12 @@
+<phrase> Hello
+<response> Hello
+<response> Hi
+<response> Hey
+<phrase> How are you?
+<response> I'm good, how are you?
+<response> I'm doing fine thanks, how about yourself?
+<response> I'm a bot, I don't feel much of anything, how about you?
+<phrase> What have you been doing?
+<response> You know, computing. How about you?
+<response> Crunching 1's and 0's the usual and you?
+<response> Sitting here, being a computer. How about yourself?
